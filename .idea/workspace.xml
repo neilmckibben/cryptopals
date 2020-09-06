@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ba5e76a-fb1f-437f-ae0e-577c5c05ffd6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1goFlS1kPTGWBAaeiYpwnsUFFA3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.single_bit_xor_decryption">
+    <configuration name="fixed_xor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cryptopals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fixed_xor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hex_to_base64" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cryptopals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hex_to_base64.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="single_bit_xor_decryption" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cryptopals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/single_bit_xor_decryption.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cryptopals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sol.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.single_bit_xor_decryption" />
+        <item itemvalue="Python.sol" />
+        <item itemvalue="Python.fixed_xor" />
+        <item itemvalue="Python.hex_to_base64" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ba5e76a-fb1f-437f-ae0e-577c5c05ffd6" name="Default Changelist" comment="" />
+      <created>1598773188390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598773188390</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="793" y="764" width="1096" height="821" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598773204062">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state x="793" y="764" width="1096" height="821" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.2160@0.0.3840.2160" timestamp="1598773204062" />
+    <state x="425" y="701" width="2975" height="772" key="#xdebugger.XInspectDialog" timestamp="1599028428099">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state x="425" y="701" width="2975" height="772" key="#xdebugger.XInspectDialog/0.0.3840.2160@0.0.3840.2160" timestamp="1599028428099" />
+    <state x="1597" y="724" width="636" height="727" key="FileChooserDialogImpl" timestamp="1598897234044">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state x="1597" y="724" width="636" height="727" key="FileChooserDialogImpl/0.0.3840.2160@0.0.3840.2160" timestamp="1598897234044" />
+    <state width="3809" height="750" key="GridCell.Tab.0.bottom" timestamp="1599180569706">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3809" height="750" key="GridCell.Tab.0.bottom/0.0.3840.2160@0.0.3840.2160" timestamp="1599180569706" />
+    <state width="3809" height="750" key="GridCell.Tab.0.center" timestamp="1599180569706">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3809" height="750" key="GridCell.Tab.0.center/0.0.3840.2160@0.0.3840.2160" timestamp="1599180569706" />
+    <state width="3809" height="750" key="GridCell.Tab.0.left" timestamp="1599180569705">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3809" height="750" key="GridCell.Tab.0.left/0.0.3840.2160@0.0.3840.2160" timestamp="1599180569705" />
+    <state width="3809" height="750" key="GridCell.Tab.0.right" timestamp="1599180569706">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3809" height="750" key="GridCell.Tab.0.right/0.0.3840.2160@0.0.3840.2160" timestamp="1599180569706" />
+    <state width="3809" height="750" key="GridCell.Tab.1.bottom" timestamp="1599180569707">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3809" height="750" key="GridCell.Tab.1.bottom/0.0.3840.2160@0.0.3840.2160" timestamp="1599180569707" />
+    <state width="3809" height="750" key="GridCell.Tab.1.center" timestamp="1599180569706">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3809" height="750" key="GridCell.Tab.1.center/0.0.3840.2160@0.0.3840.2160" timestamp="1599180569706" />
+    <state width="3809" height="750" key="GridCell.Tab.1.left" timestamp="1599180569706">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3809" height="750" key="GridCell.Tab.1.left/0.0.3840.2160@0.0.3840.2160" timestamp="1599180569706" />
+    <state width="3809" height="750" key="GridCell.Tab.1.right" timestamp="1599180569707">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3809" height="750" key="GridCell.Tab.1.right/0.0.3840.2160@0.0.3840.2160" timestamp="1599180569707" />
+    <state width="1920" height="867" key="XDebugger.FullValuePopup" timestamp="1599027115392">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1920" height="867" key="XDebugger.FullValuePopup/0.0.3840.2160@0.0.3840.2160" timestamp="1599027115392" />
+    <state x="1451" y="830" width="933" height="497" key="com.intellij.ide.util.TipDialog" timestamp="1599116102541">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state x="1451" y="830" width="933" height="497" key="com.intellij.ide.util.TipDialog/0.0.3840.2160@0.0.3840.2160" timestamp="1599116102541" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hex_to_base64.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sol.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sol.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/single_bit_xor_decryption.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/single_bit_xor_decryption.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
